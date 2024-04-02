@@ -17,8 +17,6 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 </div>
 
-<br/>
-
 <h2 align="center">🛠️ My Skills</h2>
 
 <h4 align="center">💻  Programming and Markup Languages</h4>
